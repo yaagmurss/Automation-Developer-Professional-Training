@@ -1,0 +1,8 @@
+# AdvancedRPADeveloperCertificationTrainingNotes
+Advanced RPA Developer Certification Training Notes From Uipath Academy
+
+- 1_Meet_The_Uipath_Platform
+- 2_Build_Your_First_Process_With_Studio
+- 3_A_Day_In_The_Life_Of_An_Rpa_Developer
+- 4_Variables_And_Arguments
+- 5_Control_Flows
