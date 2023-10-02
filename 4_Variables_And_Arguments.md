@@ -1,7 +1,9 @@
 ***Variables*** 
+
 Basic units of storing information
 
 ***Name Of A Variable***
+
 It should be as descriptive as possible to make your automation easy to read by other developers and to save time. 
 While not the only option, we recommend:Using PascalCase for variable names. 
 PascalCase is a naming convention in which the first letter of each word in a variable is capitalized. Eg: ItemValue, LastName.
@@ -10,13 +12,13 @@ PascalCase is a naming convention in which the first letter of each word in a va
 It defines what kind of data is stored in the variable. 
 In UiPath, the data type is declared when the variable is created.  
 The dropdown field provides quick access to the most used data types (seen below), but there are many more options available to you, if you select "Browse for Types". 
-    Boolean
-    Int32
-    String
-    Object
-    System.Data.DataTable 
-    Array of [T]
-    Browse for Types
+- Boolean
+- Int32
+- String
+- Object
+- System.Data.DataTable 
+- Array of [T]
+- Browse for Types
 
 ***Scope of A Variable***
 
@@ -38,18 +40,18 @@ Used to store text
 ***Numeric***
 Used to store numbers
 
--Int32
--Long
--Double
+- Int32
+- Long
+- Double
 
 ***Boolean***
 Used to store two values (true(1) false(0))
 
 ***Collection***
 Used for handling and processing complex data 
--Array(used to store multiple values of the same data type. The size (number of objects) is defined at creation.)
--List (used to store multiple values of the same data type, just like Arrays. Unlike Arrays, their size is dynamic.)
--Dictionary (used to store objects in the form of (key, value) pairs, where each of the two can be of a separate data type.)
+- Array(used to store multiple values of the same data type. The size (number of objects) is defined at creation.)
+- List (used to store multiple values of the same data type, just like Arrays. Unlike Arrays, their size is dynamic.)
+- Dictionary (used to store objects in the form of (key, value) pairs, where each of the two can be of a separate data type.)
 
 ***DataTable***
 Act as a database or a simple spreadsheet with rows and columns.
@@ -60,26 +62,26 @@ Act as a database or a simple spreadsheet with rows and columns.
 
 ***GenericValue***
 
--This is a UiPath proprietary variable type that can store any kind of data, including text, numbers, dates, and arrays. 
+- This is a UiPath proprietary variable type that can store any kind of data, including text, numbers, dates, and arrays. 
 This type is mainly used in activities in which we aren't sure what type of data we'll receive, yet in general, using this is temporary.
 
-What are some business scenarios in which you will use GenericValue?
--Data is extracted from a UI field and forwarded to another workflow without processing.
--Two versions of the same Excel file are being compared column by column. The columns are different in terms of data type, the only relevant thing is which entries have changed. 
+***What are some business scenarios in which you will use GenericValue?***
+- Data is extracted from a UI field and forwarded to another workflow without processing.
+- Two versions of the same Excel file are being compared column by column. The columns are different in terms of data type, the only relevant thing is which entries have changed. 
 
 
-What is a workflow?
+***What is a workflow?***
 
 - A workflow represents a relatively small piece of an automation project,typically executing a specific part of the process. 
 - Once built, it can be reused across different projects.
 
 - UiPath Studio provides you with predefined workflow layouts to suit all the needs of a fast and reliable automation process.
 
-- The workflow layouts are:
-    Sequences
-    Flowcharts
-    State Machines
-    Global Exception Handler
+- ***The workflow layouts are:***
+- Sequences
+- Flowcharts
+- State Machines
+- Global Exception Handler
 
 - The fastest, most reliable, and useful way of automating a process is to break it down into smaller bits. 
 
@@ -91,12 +93,12 @@ What is a workflow?
 
 
 
-What is it?
+***What is it?***
 
 - An array variable or argument is a type that enables storing multiple values of the same data type
 
-StrArray = {"John", "Paul", "George", "Ringo"}
-StrArray(0) = "John" 
+- StrArray = {"John", "Paul", "George", "Ringo"}
+- StrArray(0) = "John" 
 
 - Arrays are the most common example of a collection with a fixed size, the one at creation.
 - Think of it as a group of elements with a size that is defined at creation, and where each item can be identified by its index.
