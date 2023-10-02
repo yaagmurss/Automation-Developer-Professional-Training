@@ -1,11 +1,11 @@
 ***The workflow layouts***
 
--Sequence (Activities in sequences are easier to read and maintain)
--Flowchart (Use flowcharts when decision points and branching are needed  )
--State Machine ( that uses a finite number of states in its execution)
--Global Exception Handler.
+- Sequence (Activities in sequences are easier to read and maintain)
+- Flowchart (Use flowcharts when decision points and branching are needed  )
+- State Machine ( that uses a finite number of states in its execution)
+- Global Exception Handler.
 
-***The most common control flow statements are ***
+***The most common control flow statements are***
 - If, 
 - While, 
 - Do While, 
