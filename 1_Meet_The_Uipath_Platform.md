@@ -37,7 +37,8 @@ Rpa components of the uipath platform:
 ==>Robot, 
 ==>Assistant.
 
-Uipath Robots
+***Uipath Robots***
+
 A software robot is an execution agent that runs automations built with the Studio family and then published as packages either locally, or to Orchestrator. 
 
 ==>***Attended robots***
