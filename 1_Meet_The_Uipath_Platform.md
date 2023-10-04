@@ -6,7 +6,7 @@ As the Automation Cloud account admin:
 - Allocate the Automation Developer - Named User license type.
 - Go to Orchestrator, search for the newly added user, and assign the Robot role.
 
-- As the attended user:
+As the attended user:
 - Check your mailbox and accept the invitation from the administrator.
 - Login to Automation Cloud.
 - On the Home tab, click Download UiPath Studio.
