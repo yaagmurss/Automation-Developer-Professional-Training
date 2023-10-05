@@ -98,7 +98,8 @@
 ***We can change the design experience based on the requirement, in two ways***
 
 - Change the default design experience at Studio level.
-![Alt text](image.png)
+![resim](https://github.com/yaagmurss/AdvancedRPADeveloperCertificationTrainingNotes/assets/52479605/25bdf95b-04b4-4d36-86fe-1f9d88cca580)
+
 
 - Change the design experience at Project level. 
-![Alt text](image-1.png)
+![resim](https://github.com/yaagmurss/AdvancedRPADeveloperCertificationTrainingNotes/assets/52479605/25415e8b-cff0-4568-af91-18bd337f946a)
