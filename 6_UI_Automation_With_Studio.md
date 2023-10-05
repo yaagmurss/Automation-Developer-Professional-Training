@@ -103,3 +103,54 @@
 
 - Change the design experience at Project level. 
 ![resim](https://github.com/yaagmurss/AdvancedRPADeveloperCertificationTrainingNotes/assets/52479605/25415e8b-cff0-4568-af91-18bd337f946a)
+
+***The key differences between the modern design experience and the classic design experience are based on the following key concepts***
+
+- UI Automation activities
+
+- Activity properties
+
+- Targeting methods
+
+- Input methods
+
+- Recorders and Scarping wizards
+
+- The object repository
+
+***NOTE***
+
+- Note that modern activities only work within containers, while classic activities can be configured to work without containers as well. 
+
+- Modern and Classic activities have slightly different properties because of different targeting methods and Activity behaviors. We'll learn more about this in the following lessons.
+
+- Both design experiences use input methods (Hardware events, SendWindowMessages, and Simulate). A new input method, ChromiumAPI, is used in the modern experience.
+
+- Modern experience ==> The App/Web and Computer Vision recorders are available.
+
+- Classic experience ==> The Basic, Desktop, Web, Image, Native Citrix, and Computer Vision recorders are available.
+
+- Modern experience ==> The Table Extraction wizard is available for data scraping.
+
+- Classic experience ==> The Data Scraping and Screen Scraping wizards are available.
+
+- Full text output method belongs both experience
+
+***Modern Experience***
+
+- Targetting methods : Native Text
+- Targetting methods : Unified Target(cycles through all of the available targeting methods)
+- Scraping wizard : Table Extraction 
+- Recorders : App/Web and Computer vision
+- It is default option unless updated
+- Object repository
+- Input Method : Chromium API
+- Activities : UI Activities only work with containers
+
+***Classic Experience***
+
+- Recorders: Basic, Desktop, Web, Image, Native Citrix and Computer vision 
+- Targetting methods : Mostly selectors
+- Scaping wizard : Data scraping and screen scraping
+- Activities : UI Activities can work without containers
+
