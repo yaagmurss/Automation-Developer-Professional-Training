@@ -7,3 +7,4 @@ Advanced RPA Developer Certification Training Notes From Uipath Academy
 4) Variables And Arguments
 5) Control Flows
 6) UI Automation With Studio
+7) UI Automation with the Modern Experience in Studio
