@@ -18,5 +18,4 @@
 - "Hover able" option, We want to select any UI element, If that is avaible only on hover ***F6***
 - "Image selectiom mode" ***F3*** We can use image selection mode for both anchor and target. After pressing F3 then we hold the left mouse button and drag around a region.
 
-***IMAGE-1-***
-***IMAGE-2-***
+![Selection_Option_Window-2](https://github.com/yaagmurss/AdvancedRPADeveloperCertificationTrainingNotes/assets/52479605/8f00677e-406f-4011-ac7a-823b2f62fd8a)
