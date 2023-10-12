@@ -4,7 +4,7 @@
 
 - We use target and anchor to identify the correct button, check boxes or dropdown list or the fetch the correct data from te web page/application
 
-- Target is UI element you wnat to interact
+- Target is UI element you want to interact
 
 ***Anchor***
   
