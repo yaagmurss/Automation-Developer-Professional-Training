@@ -43,6 +43,8 @@
 - Open : This propety is responsible for deciding when to open the target application for the execution of the all the activities in the Do container(never-always-IfNotOpen)
 - Resize Window : Resize window when initialized or when it is opened. (None-Maximize-RestoretoDesingTime-Minimize)
 - Window Attach mode : Application Instance(It searches the application instances for its UI element including all parent and child windows(alerts-pop ups etc.)). Single Window(activity search only in the indicated window)
+- ***Options-Browser Section***
+- 
 
 
 
@@ -58,7 +60,7 @@
 
 
 
-- ![resim](https://github.com/yaagmurss/AdvancedRPADeveloperCertificationTrainingNotes/assets/52479605/fe9c673d-f17a-4100-9b29-e0b88d9f842a)
+  ![resim](https://github.com/yaagmurss/AdvancedRPADeveloperCertificationTrainingNotes/assets/52479605/fe9c673d-f17a-4100-9b29-e0b88d9f842a)
 
 
 
