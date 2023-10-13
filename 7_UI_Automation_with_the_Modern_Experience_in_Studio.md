@@ -44,7 +44,7 @@
 - Resize Window : Resize window when initialized or when it is opened. (None-Maximize-RestoretoDesingTime-Minimize)
 - Window Attach mode : Application Instance(It searches the application instances for its UI element including all parent and child windows(alerts-pop ups etc.)). Single Window(activity search only in the indicated window)
 - ***Options-Browser Section***
-- 
+
 
 
 
