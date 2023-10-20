@@ -31,7 +31,7 @@ As the attended user:
 
 ----------------
 
-Rpa components of the uipath platform: 
+Components of the uipath platform: 
 ==>Studio, 
 ==>Orchestrator, 
 ==>Robot, 
