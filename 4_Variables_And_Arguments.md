@@ -147,9 +147,21 @@ Gets a DateTime object that's set to the current date, and time on this computer
 Converts the value of the specified DateTime to its equivalent string representation.
 
 
+___________________________________________
+
+***Differences between a variable and an argument***
+
+![resim](https://github.com/yaagmurss/AdvancedRPADeveloperCertificationTrainingNotes/assets/52479605/df617732-13ca-4a96-8563-1a698885eb3e)
 
 
+________________________________________
 
+Note : 
+
+
+- Global constants and variables can be created and managed From the Data Manager panel in Studio .
+
+- Disclaimer: As a good case practice, arrays are used for defined sets of data (for example, the months of the year or a predefined list of files in a folder). Whenever the collection might require size changes, a List is probably the better option. 
 
 
 
