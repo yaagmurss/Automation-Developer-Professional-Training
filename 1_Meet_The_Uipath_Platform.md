@@ -1,10 +1,3 @@
-***Uipath Hardware and Software Requirements***
-![resim](https://github.com/yaagmurss/AdvancedRPADeveloperCertificationTrainingNotes/assets/52479605/5bf5e0a7-1c0d-4e7e-ae25-957c794fd131)
-
-![resim](https://github.com/yaagmurss/AdvancedRPADeveloperCertificationTrainingNotes/assets/52479605/cfa5b1ed-ce08-4228-8a84-16114eb280fd)
-
-----------------  
-
 ***Components of the uipath platform***  
  &rarr; Studio,   
  &rarr; Orchestrator,     
@@ -47,12 +40,15 @@ Automation Cloud Robots (ACRs) are SaaS robots hosted in the UiPath Automation C
 
 ----------------  
 
-***Uipath Orchestrator***  
+***Uipath Orchestrator***
 
-- Orchestrator, the heart of automation management, is a web application that allows managing, controlling, and monitoring the robots and the automations. 
-- With Orchestrator we can deploy, trigger, measure, provision, track, and ensure the security of every robot in the organization. 
-- Orchestrator also functions as a repository for libraries, reusable components, assets, and processes used by robots or by developers.  
-- ***The main capabilities of Orchestrator are:***
+
+Orchestrator, the heart of automation management, is a web application that allows managing, controlling, and monitoring the robots and the automations. 
+With Orchestrator we can deploy, trigger, measure, provision, track, and ensure the security of every robot in the organization. 
+Orchestrator also functions as a repository for libraries, reusable components, assets, and processes used by robots or by developers.
+
+
+***The main capabilities of Orchestrator are:***
 - ***Provisioning:*** creates and maintains the connection with robots.
 - ***Control and license distribution:*** enables the creation, assignment and maintenance of licenses, roles, permissions, groups, and folder hierarchies.
 - ***Automation storage and distribution:*** allows the controlled storage and distribution of automation projects, assets, and credentials, as well as large files used in automations.
@@ -62,62 +58,111 @@ Automation Cloud Robots (ACRs) are SaaS robots hosted in the UiPath Automation C
 ----------------  
 
 ***Uipath Task Capture***
+
+
 UiPath Task Capture is a process documentation automation tool.
 It exports screenshots, step by step details, and detailed annotation in a PDD or XAML.
 
+
+
 ***Uipath Process Mining***
+
+
 Process Mining is visualization and analysis of event logs with the help of algorithms and mathematical procedures. 
 Uipath Process Mining tool discovers automation-ready pain points, deviations, and inefficiencies across processes.
 
+
 ***Uipath Task Mining***
+
+
 Uses Al to automatically capture and analyze the day-to-day tasks performed by the employees, 
 Construct the data-driven process maps, and suggest automation ideas with the highest ROI potential. 
 
+
 ***Uipath Studio***
+
+
 Uipath Studio is for developers to build automation projects with basic coding konowledge.
 It is an drag and drop technology for development.
 
+
 ***Uipath Studio X***
+
+
 Enables business users to rapidly automate without the need for developer resources or coding, making automation accessible to all.
 
-***Uipath Studio Pro***
-Empowers RPA developers with all of the benefits of Studio plus advanced scaling capabilities to continuously automate testing of RPA workflows and the applications they rely on, including web, mobile, SAP, and virtualized desktops.
-
 ***Uipath Document Understanding***
-Uses AI-enhanced skills to extract data and interpret documents. 
-It can process different document types and formats, including tables, handwriting, signatures, and checkboxes. 
-Uses human validation to confirm extracted data if needed, handle exceptions, and train models to improve their accuracy over time.
+
+
+Uses AI-enhanced skills to extract data and interpret documents. It can process different document types and formats, including tables, handwriting, signatures, and checkboxes. Uses human validation to confirm extracted data if needed, handle exceptions, and train models to improve their accuracy over time.
+
 
 ***Uipath Integrations***
+
+
 Leverages API integrations with leading enterprise applications, built and supported by UiPath and backed by partners.
 
+
 ***Uipath Marketplace***
+
+
 Enables consumers to discover and use trusted, enterprise-grade RPA content. 
 
+
 ***Uipath Test Manager***
+
+
 Governs and monitors the quality of the automations. It facilitates test planning and execution, requirements, and defect traceability, includes comprehensive test reporting, and seamlessly adapts to environments with out-of-the-box integrations.
 
+
 ***Uipath AI Center***
+
+
 Facilitates the automation of more complex or  cognitive processes with RPA robots learning Al skills.
 Enables you to deploy your own Al skills or pre-trained Al skills developed by UiPath or UiPath Al technology partners.
 
+
 ***Uipath Insights***
+
+
 Using powerful embedded analytics you can measure, report, and align RPA operations with your specific KPls and strategic business outcomes. 
 
+
 ***Uipath Data Service***
+
+
 A powerful no-code data modelling and storage tool that ensures seamless access, enterprise-grade security, and scalability of the data.
 
+
 ***Uipath Assistant***
+
+
 Lets all the users interact with robots right on their desktops through an easy-to-use launchpad
 
+
 ***Uipath Action Center***
+
+
 Brings humans in the loop to make required decisions when the automated processess require exceptions, escalations, and approvals
 
+
+
 ***Uipath Apps***
+
+
 Enables you to build, use, and share elegant business apps that interact with your automations
 
+
+
 ***Uipath Chatbots***
+
+
 Connects chatbots with UiPath processes for the fulfillment of user requests without writing a single line of code.
+
+
+
+ ----------------  
+ 
 
 ***Steps to set up your attended user and run your first job***
 
@@ -152,3 +197,10 @@ As the attended user:
 
 ----------------
 
+
+***Uipath Hardware and Software Requirements***
+![resim](https://github.com/yaagmurss/AdvancedRPADeveloperCertificationTrainingNotes/assets/52479605/5bf5e0a7-1c0d-4e7e-ae25-957c794fd131)
+
+![resim](https://github.com/yaagmurss/AdvancedRPADeveloperCertificationTrainingNotes/assets/52479605/cfa5b1ed-ce08-4228-8a84-16114eb280fd)
+
+----------------  
