@@ -1,3 +1,8 @@
+***Uipath Hardware and Software Requirements***
+![resim](https://github.com/yaagmurss/AdvancedRPADeveloperCertificationTrainingNotes/assets/52479605/5bf5e0a7-1c0d-4e7e-ae25-957c794fd131)
+
+![resim](https://github.com/yaagmurss/AdvancedRPADeveloperCertificationTrainingNotes/assets/52479605/cfa5b1ed-ce08-4228-8a84-16114eb280fd)
+
 ***Steps to set up your attended user and run your first job***
 
 As the Automation Cloud account admin:
