@@ -115,6 +115,10 @@ Opens a desktop application or web page to use in UI automation.
 ![resim](https://github.com/yaagmurss/AdvancedRPADeveloperCertificationTrainingNotes/assets/52479605/143d163e-e00f-4852-aa2c-590fedafdf6a)
 
 
+![resim](https://github.com/yaagmurss/AdvancedRPADeveloperCertificationTrainingNotes/assets/52479605/ef944bae-7068-44b9-a9ed-26a1cbbff943)
+
+
+
 
 
 
