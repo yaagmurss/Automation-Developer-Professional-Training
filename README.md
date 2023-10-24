@@ -8,3 +8,4 @@ Advanced RPA Developer Certification Training Notes From Uipath Academy
 5) Control Flows
 6) UI Automation With Studio
 7) UI Automation with the Modern Experience in Studio
+8) Excel Automation with the Modern Experience in Studio
