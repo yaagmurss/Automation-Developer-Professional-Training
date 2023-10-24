@@ -119,6 +119,66 @@ Opens a desktop application or web page to use in UI automation.
 
 
 
+# ***ChromiumAPI***
+
+- ChromiumAPI is a browser automation input method based on the Devtools protocol. It is 100% compatible with Chromium-based browsers, like Chrome or Edge. Basically, it works on any website or application executed inside the Chromium browser. It works with the following activities: Use Application/Browser,  Click, Type Into, Hover,  Keyboard Shortcuts.
+
+- Using the Hardware Events input method for all the input actions, these actions communicate with the operating system’s mouse/keyboard input stream. From there, the events are sent to the target application, the browser, which parses them and sends them further to the web pages. 
+
+- With ChromiumAPI, the events are sent directly to the browser. Therefore, this input method removes a communication channel that can fail (as any other communication channel).
+
+- Hardware Events input method needs elements to be on the screen, focused, and in the foreground. The ChromiumAPI doesn't require it as it works while the browser is minimized and/or another tab is focused.
+
+- Benefits of using ChromiumAPI over Simulate input method : It allows sending hotkeys directly to the browser, wherein Simulate doesn't support hotkeys. The Clear before typing property is natural with this method, since it doesn't empty the target element field by default. Click with modifiers actions are more efficient and reliable.
+
+![resim](https://github.com/yaagmurss/AdvancedRPADeveloperCertificationTrainingNotes/assets/52479605/51ccfd4e-67e0-42bb-87c9-71cc72510ba9)
+
+
+# ***The modern design experience uses all three output methods.***
+
+- Full text    
+
+- Native Text    
+
+- OCR
+
+![resim](https://github.com/yaagmurss/AdvancedRPADeveloperCertificationTrainingNotes/assets/52479605/8ba64769-95ca-4be3-b540-c21579074d23)
+![resim](https://github.com/yaagmurss/AdvancedRPADeveloperCertificationTrainingNotes/assets/52479605/2506d4e1-a1b3-4f4a-a2eb-4082c500f776)
+
+
+# **Output Activites***
+ ***Get Text Activity***
+  
+- Get Text Activity Extracts and copies the text from a UI element. It should be added inside a Use Application/Browser Activity.
+  
+- You can use this Activity to extract data using the following output methods: 'Default' tries all the output methods, and the first one to return a text is used. 'Text attribute' uses the "text" attribute of the UI element. 'Fulltext' this method offers the option to Ignore hidden text, which can be activated by selecting its respective check box. 'Native', this method enables you to Allow formatting and retrieve the screen coordinates of the words by selecting the check boxes for each of these features.
+
+- Get Text Activity provides the Extraction Preview wizard. This wizard enables you to choose the suitable output method based on the result displayed in the Extraction Preview wizard.
+
+
+ ***CV Get Text***
+  
+- Extracts the text from a specified UI element position based on an anchor. It should be added inside a CV Screen Scope Activity. It supports the following methods: 'OCR' uses the OCR engine specified in the parent CV Screen Scope activity to retrieve the text. 'Select - all' extract the entire text by using the clipboard. This simulates a copy/paste action and can only be used on selectable text, on either local or remote sessions. 'Select - row' extract the text in the entire row by using the clipboard. This simulates a copy/paste action and can only be used on selectable text, on either local or remote sessions.
+
+ ***Get Ocr Text***
+
+- Extracts a string and its information from an indicated UI element or image using the OCR screen scraping method. This Activity gets generated automatically when performing screen scraping, along with a container. By default, the Google OCR engine is used.
+
+
+# ***Table Extraction***
+
+- Table Extraction enables us to automatically extract structured data from applications and save it as a Data Table object. 
+
+
+- Table exaction has four sections. Information section guides us through all the steps we need to take to successfully extract any structured data. Extracted data section provides all the details about extracted data. Here we can also edit the extraction. 
+
+
+- Each column can be individually edited or deleted, enabling us to customize our final table. Setting section allows us to set the limits for our extraction. Preview section allows us to preview the extracted data. Add data button to begin the extraction.
+
+ 
+
+- Finish selection confirms the selection for the column. “extract URL’s and images sources of the extracted Data” allows to extract the URL/image automatically associate with selection and adds it as different column. we’ll use Next button, If data is spanning multiple pages by indicating the next button link. 
+
 
 
 
