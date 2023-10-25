@@ -1,4 +1,4 @@
-***UI AUTOMATION***
+# ***UI AUTOMATION***
 
 - User interface or graphical user interface automation (UI Automation) refers to the process of interacting with graphical elements within applications by simulating mouse and keyboard controls.
 
@@ -15,7 +15,7 @@
 2) Activity properties (Properties control how the Robot exectes an activity)
 3) Targeting methods (Targetting methods help the robot to identify the correct UI element to perform the action)
 4) Input and output methods (Input and output methods tell the robot what technology to use to send input to get output from interface)
-5) Recorders (The recorder will help you develop UI automation by following your manual interaction with a GUI step by strp and tranlating it into a sequence of studio activities)
+5) Recorders (The recorder will help you develop UI automation by following your manual interaction with a GUI step by step and translating it into a sequence of studio activities)
 6) Scraping Wizards (Scaping wizard help you extract structured data automatically)
 7) The object repository (It allows developers to store UI element identifiers in a repository, fine tune them and share them with colleagues for more faster UI automation development and project update)
 8) AI Computer Vision (AI Computer vision is an AI skill that enables all uipath robots to see every element on a computer screen)
@@ -30,7 +30,6 @@
 ***Activity properties***
 
 - Properties determine how the robot performs an action.
-
 - DelayAfter/DelayBefore (How many milliseconds the robot waits before or after executing the activity.)
 - ContinueOnError (Will an exception encountered while executing the activity be thrown or ignored? if the element isn't found, will robot throw an error and stop the execution, or will it ignore it and continue?)
 - Target (Provides several properties related to identifying the target UI Element.)
@@ -46,7 +45,7 @@
 - Image  
 - Native Text
 
-***INPUT METHODS***
+# ***INPUT METHODS***
 
 ***Hardware events***
 
@@ -74,7 +73,7 @@
 - Works in the background
 - Users can work on other activities during the execution of the automated process.
 
-***OUTPUT METHODS***
+# ***OUTPUT METHODS***
 
 ***Full Text***
 
@@ -89,7 +88,7 @@
 - OCR (or Optical Character Recognition) is the only output method that works with virtual environments and with “reading” text from images. Its technology relies on recognizing each character and its position. On the other hand, it cannot work in the background, it cannot extract hidden text, and its speed is by far the lowest.
 
 
-***Design experiences***
+# ***Design experiences***
 
 - Modern Design Experience
 
