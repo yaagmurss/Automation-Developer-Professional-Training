@@ -39,14 +39,11 @@
 
   ![resim](https://github.com/yaagmurss/AdvancedRPADeveloperCertificationTrainingNotes/assets/52479605/129935cf-785b-4ef9-ab1b-f69b7d75f23a)
   
-
-  ![resim](https://github.com/yaagmurss/AdvancedRPADeveloperCertificationTrainingNotes/assets/52479605/80e06b3f-c57e-4f62-82e1-bbc932e88ccd)
   
 
   ![resim](https://github.com/yaagmurss/AdvancedRPADeveloperCertificationTrainingNotes/assets/52479605/e769b5fd-93ab-438e-9a3f-e21031720030)
 
 
-  ![resim](https://github.com/yaagmurss/AdvancedRPADeveloperCertificationTrainingNotes/assets/52479605/aee1e969-7efc-4e3e-844d-76b1bb9a9a81)
 
 
 
