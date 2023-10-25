@@ -5,14 +5,13 @@ Advanced RPA Developer Certification Training Notes From Uipath Academy
 
 1) Meet The Uipath Platform
 2) Build Your First Process With Studio
-3) A Day In The Life Of An Rpa Developer
-4) Variables And Arguments
-5) Control Flows
-6) UI Automation With Studio
-7) UI Automation with the Modern Experience in Studio
-8) Excel Automation with the Modern Experience in Studio
+3) Variables And Arguments
+4) Control Flows
+5) UI Automation With Studio
+6) UI Automation with the Modern Experience in Studio
+7) Excel Automation with the Modern Experience in Studio
 
 # Automation Developer Associate Training 
 
-9) Data Manipulation with Strings in Studio
-10) Data Manipulation with Lists and Dictionaries in Studio
+8) Data Manipulation with Strings in Studio
+9) Data Manipulation with Lists and Dictionaries in Studio
