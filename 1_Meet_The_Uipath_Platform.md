@@ -26,17 +26,13 @@ When human input is finally provided, unattended robots can resume their work on
 
 Automation Cloud Robots (ACRs) are SaaS robots hosted in the UiPath Automation Cloud that let you quickly run automations without building or managing your own unattended Robot infrastructure. They come in two flavors: 
 
-- ***VM Automation Cloud Robots.***  
-- Access to a fully customizable Windows virtual machine and set up UiPath Robots to run any job in a matter of minutes.  
+- ***VM Automation Cloud Robots.*** : Access to a fully customizable Windows virtual machine and set up UiPath Robots to run any job in a matter of minutes.  
   
-- ***Serverless Automation Cloud Robots (Linux based cloud robots)***
-- Run background, cross-platform projects easily without worrying about infrastructure setup. So, you're able to provision, manage and scale these robots from Automation Cloud. In other words, UiPath takes care of everything
+- ***Serverless Automation Cloud Robots (Linux based cloud robots)*** :Run background, cross-platform projects easily without worrying about infrastructure setup. So, you're able to provision, manage and scale these robots from Automation Cloud. In other words, UiPath takes care of everything
 
 &rarr;  ***Test Robots*** 
-- These robots can be deployed to execute tests on-demand, continuously, and at scale. Here are some of the characteristics of a test robot:
-- Purpose built for testing workflows, activities, and applications.
-- Provides flexibility in managing and reusing test cases across projects. 
-- Enables activity level unit testing out-of-the-box.
+ 
+These robots can be deployed to execute tests on-demand, continuously, and at scale. Purpose built for testing workflows, activities, and applications. Provides flexibility in managing and reusing test cases across projects. Enables activity level unit testing out-of-the-box.
 
 ----------------  
 
