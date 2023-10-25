@@ -42,9 +42,13 @@ Opens a desktop application or web page to use in UI automation.
 - ***Remove informative screenshot*** - Remove the screenshot of the target application or web page.
 
   
-- ***OCR Engine*** - Select one of two options:
-- ***Embedded OCR Engine*** - Use the OCR engine embedded in the Computer Vision AI model, namely UiPath Screen OCR.
-- ***Custom OCR Engine*** - Use a custom OCR engine. When this option is selected, a panel is added in the activity card where you can drop a different OCR engine activity than UiPath Screen OCR.
+- ***OCR Engine***
+
+  
+    &rarr; Embedded OCR Engine  : Use the OCR engine embedded in the Computer Vision AI model, namely UiPath Screen OCR.
+
+
+    &rarr; Custom OCR Engine : Use a custom OCR engine. When this option is selected, a panel is added in the activity card where you can drop a different OCR engine activity than UiPath Screen OCR.
 
   
   
@@ -79,7 +83,7 @@ Opens a desktop application or web page to use in UI automation.
 ![resim](https://github.com/yaagmurss/AdvancedRPADeveloperCertificationTrainingNotes/assets/52479605/da4feaee-af8a-4b2c-829c-a781d89c95c2)
 
 
-- ***Input mode*** : Select which method the Robot should use to interact with the target application. Hardware Events uses the hardware driver to perform the action. This is the slowest method, it cannot work in the background, but it is compatible with all desktop apps. Simulates using accessibility APIs. Recommended for browsers, Java based applications, SAP. Usually more reliable than Hardware Events. Sends all text in a single action. Works even if target app is not in focus. Please test if your target application UI element supports this. Chromium API performs actions using debugger APIs. Works only for Chromium elements. Sends all text in one go. Works even if target app is not in focus. Window Messages simulate using Win32 messages. Recommended for desktop apps. Usually more reliable than Hardware Events. Sends all text in a single action. Works even if target app is not in focus. Please test if your target application UI element supports this. Background runs actions in the background. Tries to use either Simulate or Chromium API where possible, while complex activities (image, native text) run as usual, in the foreground. It is highly recommended to use this method with the Verify Execution feature. Note: Using the Background input mode with Universal Windows Platform applications is not supported, which means applications of this type cannot be automated in the background.
+- ***Input mode*** : Select which method the Robot should use to interact with the target application. 'Hardware Events' uses the hardware driver to perform the action. This is the slowest method, it cannot work in the background, but it is compatible with all desktop apps. 'Simulate' using accessibility APIs. Recommended for browsers, Java based applications, SAP. Usually more reliable than Hardware Events. Sends all text in a single action. Works even if target app is not in focus. Please test if your target application UI element supports this. 'Chromium API' performs actions using debugger APIs. Works only for Chromium elements. Sends all text in one go. Works even if target app is not in focus. 'Window Messages' simulate using Win32 messages. Recommended for desktop apps. Usually more reliable than Hardware Events. Sends all text in a single action. Works even if target app is not in focus. Please test if your target application UI element supports this. 'Background' runs actions in the background. Tries to use either Simulate or Chromium API where possible, while complex activities (image, native text) run as usual, in the foreground. It is highly recommended to use this method with the Verify Execution feature. Note: Using the Background input mode with Universal Windows Platform applications is not supported, which means applications of this type cannot be automated in the background.
 
 ![resim](https://github.com/yaagmurss/AdvancedRPADeveloperCertificationTrainingNotes/assets/52479605/c3aa2c17-a6a3-4622-9f81-8bdc9f022c16)
 
@@ -157,8 +161,10 @@ Opens a desktop application or web page to use in UI automation.
 ![resim](https://github.com/yaagmurss/AdvancedRPADeveloperCertificationTrainingNotes/assets/52479605/2506d4e1-a1b3-4f4a-a2eb-4082c500f776)
 
 
-# **Output Activites***
- ***Get Text Activity***
+***Output Activites***
+
+
+***Get Text Activity***
   
 - Get Text Activity Extracts and copies the text from a UI element. It should be added inside a Use Application/Browser Activity.
   
