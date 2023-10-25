@@ -22,14 +22,14 @@ Their interactions with human users are typically handled with as little disrupt
 While these await to be processed, unattended robots can continue their work by picking up other jobs.
 When human input is finally provided, unattended robots can resume their work on the process.  
 
-***Automation Cloud Robots***  
+ &rarr; ***Automation Cloud Robots***  
 
 Automation Cloud Robots (ACRs) are SaaS robots hosted in the UiPath Automation Cloud that let you quickly run automations without building or managing your own unattended Robot infrastructure. They come in two flavors: 
 
-&rarr;  ***VM Automation Cloud Robots.***  
+- ***VM Automation Cloud Robots.***  
 - Access to a fully customizable Windows virtual machine and set up UiPath Robots to run any job in a matter of minutes.  
   
-&rarr;  ***Serverless Automation Cloud Robots (Linux based cloud robots)***
+- ***Serverless Automation Cloud Robots (Linux based cloud robots)***
 - Run background, cross-platform projects easily without worrying about infrastructure setup. So, you're able to provision, manage and scale these robots from Automation Cloud. In other words, UiPath takes care of everything
 
 &rarr;  ***Test Robots*** 
