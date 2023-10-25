@@ -11,11 +11,11 @@
 
 ![resim](https://github.com/yaagmurss/AdvancedRPADeveloperCertificationTrainingNotes/assets/52479605/995a94b2-f12e-4d74-b9b3-5fd61c2466b3)
 
-- ***Workbook or File Access Level***
+***Workbook or File Access Level***
 
 ![resim](https://github.com/yaagmurss/AdvancedRPADeveloperCertificationTrainingNotes/assets/52479605/edc4c4f0-fb24-4974-8bd1-cfd9ef3dbbd7)
 
-- ***Excel or Excel App integration***
+***Excel or Excel App integration***
   
 ![resim](https://github.com/yaagmurss/AdvancedRPADeveloperCertificationTrainingNotes/assets/52479605/39c32a7b-ca91-447b-a267-d93c4b199420)
 
