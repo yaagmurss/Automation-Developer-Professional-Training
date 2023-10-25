@@ -29,13 +29,24 @@
 
 Opens a desktop application or web page to use in UI automation.
 
+
 - ***Indicate target on screen*** - Indicate the application again.
+
+  
 - ***Highlight Target*** - View the indicated application on your screen surrounded in a box.
+
+  
 - ***Show informative screenshot*** - View a screenshot of the target application or web page.
+
+  
 - ***Remove informative screenshot*** - Remove the screenshot of the target application or web page.
+
+  
 - ***OCR Engine*** - Select one of two options:
 - ***Embedded OCR Engine*** - Use the OCR engine embedded in the Computer Vision AI model, namely UiPath Screen OCR.
 - ***Custom OCR Engine*** - Use a custom OCR engine. When this option is selected, a panel is added in the activity card where you can drop a different OCR engine activity than UiPath Screen OCR.
+
+  
   
 ***Common Section***
   
