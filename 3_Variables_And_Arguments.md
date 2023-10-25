@@ -1,83 +1,43 @@
-***Variables*** 
+# ***Variables*** 
 
-Basic units of storing information
+Variables is a basic units of storing information
 
-- ***Name Of A Variable***
+***Name Of A Variable***
 
-It should be as descriptive as possible to make your automation easy to read by other developers and to save time. 
-While not the only option, we recommend:Using PascalCase for variable names. 
-PascalCase is a naming convention in which the first letter of each word in a variable is capitalized. Eg: ItemValue, LastName.
+- It should be as descriptive as possible to make your automation easy to read by other developers and to save time. 
+- While not the only option, we recommend : Using PascalCase for variable names. 
+- PascalCase is a naming convention in which the first letter of each word in a variable is capitalized. Eg: ItemValue, LastName.
 
-- ***Type Of A Variable***
+***Type Of A Variable***
 
+- It defines what kind of data is stored in the variable. 
+- In UiPath, the data type is declared when the variable is created.  
+- The dropdown field provides quick access to the most used data types (seen below), but there are many more options available to you, if you select "Browse for Type. (Boolean, Int32, String, Object, System.Data.DataTable, Array of [T], Browse for Types)
 
-It defines what kind of data is stored in the variable. 
-In UiPath, the data type is declared when the variable is created.  
-The dropdown field provides quick access to the most used data types (seen below), but there are many more options available to you, if you select "Browse for Types". 
-- Boolean
-- Int32
-- String
-- Object
-- System.Data.DataTable 
-- Array of [T]
-- Browse for Types
+***Scope of A Variable***
 
-- ***Scope of A Variable***
+- The part of the workflow in which the variable is called by name. 
+- A typical automation project consists of different workflows, nested, or connected in different ways.
+- The scope of a variable is defined by the name of the workflow in the automation project. 
 
-The part of the workflow in which the variable is called by name. 
-A typical automation project consists of different workflows, nested, or connected in different ways.
-The scope of a variable is defined by the name of the workflow in the automation project. 
+***Default***
 
-- ***Default***
-
-Inital value of a variable. It is change through workflow.
-It is not mandatory.
+- Inital value of a variable. It is change through workflow.
+- It is not mandatory.
 
 
 ***Data Types***
 
-Most of them are borrowed from Visual Basic.NET language.
-
+- Most of them are borrowed from Visual Basic.NET language.
+  
 - ***String*** : Used to store text
-
 - ***Numeric*** : Used to store numbers(Int32, Long, Double)
-
 - ***Boolean*** : Used to store two values (true(1) false(0))
-
 - ***Collection*** : Used for handling and processing complex data( Array(used to store multiple values of the same data type. The size (number of objects) is defined at creation.), List (used to store multiple values of the same data type, just like Arrays. Unlike Arrays, their size is dynamic.), Dictionary (used to store objects in the form of (key, value) pairs, where each of the two can be of a separate data type.)
-
 - ***DataTable*** : Act as a database or a simple spreadsheet with rows and columns.
-
-
 - ***DateAndTime*** : DateTime (Used to store specific time coordinates ) and Timespan (Used to store information about a duration )
-
 - ***GenericValue*** : This is a UiPath proprietary variable type that can store any kind of data, including text, numbers, dates, and arrays. This type is mainly used in activities in which we aren't sure what type of data we'll receive, yet in general, using this is temporary.
 
-______________________________
-
-
-***What is a workflow?***
-
-- A workflow represents a relatively small piece of an automation project,typically executing a specific part of the process. 
-- Once built, it can be reused across different projects.
-
-- UiPath Studio provides you with predefined workflow layouts to suit all the needs of a fast and reliable automation process.
-
-- ***The workflow layouts are:***
-
-- 
-- Sequences
-- Flowcharts
-- State Machines
-- Global Exception Handler
-
-- The fastest, most reliable, and useful way of automating a process is to break it down into smaller bits. 
-
-
-- This allows for independent testing of components, enables team collaboration, and component reuse. 
-
-
-- Hence, most of the automation projects require the use of multiple workflows that come together to provide a solid business automation solution.
 
 __________________________________________________________________
 
@@ -96,12 +56,11 @@ __________________________________________________________________
 __________________________________________________________________
 
 
-***Conversion methods of Data Types***
+# ***Conversion methods of Data Types***
 
-***Convert.ToString Method***
+***Convert.ToString Method*** 
 
-
-StrVar = Convert.Tostring(IntVar)
+StrVar = Convert.ToString(IntVar)
 
 
 ***Convert.ToInt32***
@@ -126,7 +85,7 @@ DblVar = Parse(StrVar)
 ***Boolean.ToString Method***
 
 
-StrVar = Convert.Tostring(BoolVar)
+StrVar = Convert.ToString(BoolVar)
 
 
 ***Convert.ToBoolean Method***
@@ -149,12 +108,11 @@ Converts the value of the specified DateTime to its equivalent string representa
 
 ___________________________________________
 
-***Differences between a variable and an argument***
+# ***Differences between a variable and an argument***
 
 ![resim](https://github.com/yaagmurss/AdvancedRPADeveloperCertificationTrainingNotes/assets/52479605/df617732-13ca-4a96-8563-1a698885eb3e)
 
 
-________________________________________
 
 Note : 
 
@@ -162,6 +120,22 @@ Note :
 - Global constants and variables can be created and managed From the Data Manager panel in Studio .
 
 - Disclaimer: As a good case practice, arrays are used for defined sets of data (for example, the months of the year or a predefined list of files in a folder). Whenever the collection might require size changes, a List is probably the better option. 
+
+
+
+# ***What is a workflow?***
+
+A workflow represents a relatively small piece of an automation project,typically executing a specific part of the process. Once built, it can be reused across different projects.UiPath Studio provides you with predefined workflow layouts to suit all the needs of a fast and reliable automation process.
+
+***The workflow layouts are:***
+
+- Sequences
+- Flowcharts
+- State Machines
+- Global Exception Handler
+
+The fastest, most reliable, and useful way of automating a process is to break it down into smaller bits. This allows for independent testing of components, enables team collaboration, and component reuse. Hence, most of the automation projects require the use of multiple workflows that come together to provide a solid business automation solution.
+
 
 
 
