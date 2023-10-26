@@ -65,11 +65,13 @@ Process of modifying, structuring, formatting, or sorting data to make it easier
 - Output datatype: Int32
 
 ***LastIndexOf***
+
 - Returns the index position of the last occurrence of a specified character or a substring.
 - Expression: VarName1.LastIndexOf("author")
 - Output datatype: Int32
 
 ***String.Join***
+
 - Concatenates the elements in a collection using the specified separator and displays them as a String.
 - Expression: String.Join(“|”, CollVarName1)
 - Output datatype: String
@@ -91,6 +93,7 @@ Process of modifying, structuring, formatting, or sorting data to make it easier
 - Extracts a substring from a string using the starting index and the length.
 - Expression: VarName1.Substring(startIndex, length)
 - Output datatype: String
+  
 
 ***The Text to Left/Right activity***
 
