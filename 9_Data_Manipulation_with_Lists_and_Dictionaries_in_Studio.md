@@ -132,6 +132,32 @@ bullet
 - We assign the object to the new variable (or initialize the variable) either by using the Default value in the Variables panel, or by using an Assign activity.
 
 
+***Collection-specific activities***
+
+- Build Collection
+- Remove From Collection
+- Exists in Collection
+- Append item to Collection
+- Merge Collections
+- Filter Collections
+- Collection to Data Table 
+
+
+# Dictionary Variable 
+
+- Dictionary variables (Dictionary<TKey, TValue>) are collection type of variables of (key, value) pairs, in which the keys are unique.
+
+
+***Methods for working with dictionary variables***
+
+- ***Initialization***:  We can add new Dictionary(Of String, String) inside the Default value field in the Variables panel or Data Manager panel for the respective variable, or use an Assign activity to assign the value to the variable within the workflow.
+
+- ***Adding Key-Value Pairs*** :  VarName.Add(Key, Value) adds an item to an existing dictionary variable. Because Add doesn't return a value, we use the Invoke Method or Assign activity.
+
+- ***Removing Keys*** : VarName.Remove(Key) removes an item from the dictionary variable. It can be used in an Invoke Method activity.
+
+- ***Retrieving*** :  VarName.Item(Key) returns the Dictionary item by its key. VarName.Count returns an Int32 value of the number of Dictionary items.
+VarName.ContainsKey(Key) checks if the item with the given key exists in the dictionary variable and returns a Boolean result.
 
 
 
