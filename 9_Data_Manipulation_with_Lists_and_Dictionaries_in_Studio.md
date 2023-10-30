@@ -60,8 +60,7 @@
 
 
 # Dictionary Variable 
-
-- Dictionary variables (Dictionary<TKey, TValue>) are collection type of variables of (key, value) pairs, in which the keys are unique.
+Dictionary variables (Dictionary<TKey, TValue>) are collection type of variables of (key, value) pairs, in which the keys are unique.
 
 
 ***Methods for working with dictionary variables***
