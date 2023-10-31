@@ -36,4 +36,6 @@ Advanced RPA Developer Certification Training Notes From Uipath Academy
 
 2.4) UI Descriptors in Studio 
 
+2.5) Selectors in Studio Deep Dive 
+
 
