@@ -16,4 +16,5 @@ Advanced RPA Developer Certification Training Notes From Uipath Academy
 
 8) Data Manipulation with Strings in Studio
 9) Data Manipulation with Lists and Dictionaries in Studio
+10) UI Automation Synchronization with Studio
 
