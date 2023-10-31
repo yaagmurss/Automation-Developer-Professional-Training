@@ -42,4 +42,6 @@ Advanced RPA Developer Certification Training Notes From Uipath Academy
 
 2.7) Orchestrator Overview for Automation Developers
 
+2.8) Working with Orchestrator Resources
+
 
