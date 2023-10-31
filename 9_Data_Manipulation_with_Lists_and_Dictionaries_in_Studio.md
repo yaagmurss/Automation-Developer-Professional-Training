@@ -1,4 +1,6 @@
 # List variable
+
+
 List variables are collection type of variables. Meaning that they're part of the ***System.Collections*** namespace. Lists, queues, arrays, hash tables, and dictionaries are all part of the System.Collections namespace. 
 
   
