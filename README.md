@@ -40,4 +40,6 @@ Advanced RPA Developer Certification Training Notes From Uipath Academy
 
 2.6) Error and Exception Handling in Studio
 
+2.7) Orchestrator Overview for Automation Developers
+
 
