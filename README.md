@@ -38,10 +38,12 @@ Advanced RPA Developer Certification Training Notes From Uipath Academy
 
 2.5) Selectors in Studio Deep Dive 
 
-2.6) Error and Exception Handling in Studio
+2.6) Debugging in Studio
 
-2.7) Orchestrator Overview for Automation Developers
+2.7) Error and Exception Handling in Studio
 
-2.8) Working with Orchestrator Resources
+2.8) Orchestrator Overview for Automation Developers
+
+2.9) Working with Orchestrator Resources
 
 
