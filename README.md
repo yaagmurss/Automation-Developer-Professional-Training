@@ -4,8 +4,6 @@
 Advanced RPA Developer Certification Training Notes From Uipath Academy
 
 
-References : https://academy.uipath.com/learning-plans/uipath-advanced-rpa-developer-certification-training
-
 
 
 # Automation Explorer
@@ -54,3 +52,10 @@ References : https://academy.uipath.com/learning-plans/uipath-advanced-rpa-devel
 2.9) Working with Orchestrator Resources
 
 
+
+
+
+
+
+
+References : https://academy.uipath.com/learning-plans/uipath-advanced-rpa-developer-certification-training
