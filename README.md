@@ -49,6 +49,8 @@ Advanced RPA Developer Certification Training Notes From Uipath Academy
 
 2.8) Working with Local Files and Folders in Studio
 
+2.9) Email_Automation_With_Studio.md
+
 2.9) Orchestrator Overview for Automation Developers
 
 3.1) Working with Orchestrator Resources
