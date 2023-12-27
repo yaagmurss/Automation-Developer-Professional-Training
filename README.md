@@ -54,8 +54,7 @@ Advanced RPA Developer Certification Training Notes From Uipath Academy
 2.10) PDF Automation with Studio
 
 
-
------
+# Automation Developer Professional 
 
 3.1) Orchestrator Overview for Automation Developers
 
