@@ -55,6 +55,8 @@ Advanced RPA Developer Certification Training Notes From Uipath Academy
 
 3.2) Data Manipulation With Data Tables
 
+3.3) Introduction To Logging 
+
 
 # Automation Developer Professional 
 
