@@ -1,4 +1,4 @@
-# UiPath Automation Developer Professional learning plan
+# UiPath Automation Developer Professional Learning Plan
 
 
 UiPath Automation Developer Professional learning plan notes from Uipath Academy
