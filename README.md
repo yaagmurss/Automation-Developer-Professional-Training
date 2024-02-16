@@ -1,7 +1,7 @@
 # AdvancedRPADeveloperCertificationTrainingNotes
 
 
-Advanced RPA Developer Certification Training Notes From Uipath Academy
+UiPath Automation Developer Professional learning plan notes from Uipath Academy
 
 
 
