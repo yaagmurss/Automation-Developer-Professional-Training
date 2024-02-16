@@ -59,12 +59,7 @@ UiPath Automation Developer Professional learning plan notes from Uipath Academy
 
 3.4) Orchestrator Overview For Automation Developers
 
-
-# Automation Developer Professional 
-
-4.1) Orchestrator Overview for Automation Developers
-
-4.2) Working with Orchestrator Resources
+3.5) Working with Orchestrator Resources
 
 
 
