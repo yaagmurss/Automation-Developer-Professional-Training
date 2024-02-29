@@ -64,6 +64,8 @@ UiPath Automation Developer Professional learning plan notes from Uipath Academy
 3.6) Object Repository
 
 
+3.7) Integration Service
+
 -----
 
 
