@@ -72,6 +72,10 @@ UiPath Automation Developer Professional learning plan notes from Uipath Academy
 
 3.9) Workflow Analyzer
 
+
+4.1) RPA Testing With Studio
+
+
 -----
 
 
