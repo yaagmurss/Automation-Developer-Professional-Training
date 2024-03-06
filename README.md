@@ -69,6 +69,9 @@ UiPath Automation Developer Professional learning plan notes from Uipath Academy
 
 3.8) Version Control Systems Integration Studio
 
+
+3.9) Workflow Analyzer
+
 -----
 
 
