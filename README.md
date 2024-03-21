@@ -76,6 +76,9 @@ UiPath Automation Developer Professional learning plan notes from Uipath Academy
 4.1) Introduction To RPA Testing
 
 
+4.2) Project Organization in Studio
+
+
 -----
 
 
