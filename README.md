@@ -80,8 +80,6 @@ UiPath Automation Developer Professional learning plan notes from Uipath Academy
 
 
 
-4.3) Automation Implementation Methodology
-
 
 -----
 
