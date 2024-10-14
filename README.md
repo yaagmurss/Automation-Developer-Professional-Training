@@ -81,16 +81,12 @@ UiPath Automation Developer Professional learning plan notes from Uipath Academy
 
 
 
------
-
-
 # Automation Developer Professional
 
 
 5.1) Introduction to Robotic Enterprise Framework
 
 
------
 
 
 # Additional
