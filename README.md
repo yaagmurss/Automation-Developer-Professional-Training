@@ -93,6 +93,15 @@ UiPath Automation Developer Professional learning plan notes from Uipath Academy
 -----
 
 
+# Additional
+
+
+6.1) Document Understanding Overview
+
+
+-----
+
+
 References 
 
 
